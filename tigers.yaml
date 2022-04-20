@@ -9,4 +9,8 @@ members:
 - William
 - David
 - George
+<<<<<<< HEAD
 - Kim
+=======
+- Park
+>>>>>>> conflict
