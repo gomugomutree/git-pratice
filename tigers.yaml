@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: Brenda
+=======
+manager: Tyler
+>>>>>>> e76e419 (Edit Tigers members)
 
 coach: Ruth
 
